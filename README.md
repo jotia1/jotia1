@@ -9,7 +9,9 @@ networks.
 - **[CompCase AI](https://compcase.com.au)**: sentencing research for Queensland criminal lawyers, built on an LLM
   pipeline that turns court judgments into cited, structured data.
 - **[Foraging Lab](https://foraging-lab.josharnold.com.au)**: a live tank of evolving spiking-neural-network creatures
-  you can poke at, with an inference API and a model registry behind it.
+  you can poke at, with an inference API and a model registry behind it ([code](https://gitlab.com/jotia1/foraging-lab)).
+- **[spike-forest](https://gitlab.com/jotia1/spike-forest)**: a small, modular spiking-neural-network simulator for
+  running several plasticity rules at once; it's the engine behind Foraging Lab's brains.
 - Teaching algorithms, theory of computing and information systems at the University of Queensland.
 
 Previously principal data scientist at Vincents, building LLM tools for accountants and lawyers.
